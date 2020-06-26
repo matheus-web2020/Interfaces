@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.exe
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.dll
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\bin\Debug\netcoreapp3.1\InterfacesPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.dll
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\InterfacesPOO\obj\Debug\netcoreapp3.1\InterfacesPOO.genruntimeconfig.cache
